@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    height: 5000px;
+}
+#top{
+    position: fixed;
+    bottom: 80px;
+    right: 40px;
+    width: 80px;
+}
+#top img{
+    width: 80px;
+}
